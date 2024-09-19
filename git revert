@@ -1,0 +1,29 @@
+[33mcommit 5b13fcf852968c035a1bbbf9562d371487456ce9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: leooliveira00 <lsousa2020@hotmail.com>
+Date:   Wed Sep 18 13:42:11 2024 -0300
+
+    Retirada do personagem da tela e adequação do projeto ao numero 200.
+
+[33mcommit e093b2e407995b46f84776649207917dc79ef502[m
+Author: leooliveira00 <lsousa2020@hotmail.com>
+Date:   Wed Sep 18 13:31:36 2024 -0300
+
+    Numero alterado para 200
+
+[33mcommit c1d036c82c9a289c257914ffecc12e4b06f29afe[m
+Author: leooliveira00 <lsousa2020@hotmail.com>
+Date:   Wed Sep 18 13:31:05 2024 -0300
+
+    Numero alterado para 150
+
+[33mcommit 45d254b5af78cd9c0caf6ccbbd1cf8ff89fbb893[m
+Author: leooliveira00 <lsousa2020@hotmail.com>
+Date:   Mon Sep 2 18:39:39 2024 -0300
+
+    Alteração no limite do numero para 100
+
+[33mcommit f50222c5a823735a9db75b3c7d37a0d4b13924c6[m
+Author: Leonardo Oliveira Sousa <lsousa@lamed.com.br>
+Date:   Mon Sep 2 17:47:16 2024 -0300
+
+    projeto inicial
